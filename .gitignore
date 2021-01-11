@@ -1,0 +1,5 @@
+.idea/
+models/
+venv/
+pre_trained_models/
+__pycache__/
